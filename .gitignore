@@ -2,6 +2,8 @@ node_modules/
 backend/node_modules/
 frontend/node_modules/
 backend/lms.db
+backend/lms.db-shm
+backend/lms.db-wal
 backend/uploads/
 frontend/dist/
 .env
